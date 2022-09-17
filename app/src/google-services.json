@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "562337923083",
+    "project_id": "my-books-13b01",
+    "storage_bucket": "my-books-13b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562337923083:android:2926463cbab4f08e13c70e",
+        "android_client_info": {
+          "package_name": "com.company.mybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562337923083-6tti8kk6vmqglijeg277v8lshnsqfs4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5BwcVib-tr2T0nX_Pw5jzj2Ia4cE_xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562337923083-6tti8kk6vmqglijeg277v8lshnsqfs4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562337923083:android:5594434b2c8a292c13c70e",
+        "android_client_info": {
+          "package_name": "com.sudhirtheindian4.bubblenavigationbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562337923083-6tti8kk6vmqglijeg277v8lshnsqfs4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU5BwcVib-tr2T0nX_Pw5jzj2Ia4cE_xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562337923083-6tti8kk6vmqglijeg277v8lshnsqfs4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
